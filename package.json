@@ -4,5 +4,16 @@
   "description": "Oxygen Game Engine Standard Assets",
   "main": "index.js",
   "author": "Patryk 'PsichiX' Budzynski <psichix@gmail.com> (http://psichix.io)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PsichiX/oxygen-standard-assets.git"
+  },
+  "keywords": [
+    "oxygen"
+  ],
+  "bugs": {
+    "url": "https://github.com/PsichiX/oxygen-standard-assets/issues"
+  },
+  "homepage": "https://github.com/PsichiX/oxygen-standard-assets#readme"
 }
