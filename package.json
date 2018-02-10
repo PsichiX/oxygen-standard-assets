@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/PsichiX/oxygen-standard-assets/issues"
   },
-  "homepage": "https://github.com/PsichiX/oxygen-standard-assets#readme"
+  "homepage": "https://github.com/PsichiX/oxygen-standard-assets#readme",
+  "oxygen": {
+    "subassets": [
+      "<oxygen-deferred-default-shader-assets>/assets"
+    ]
+  },
+  "dependencies": {
+    "oxygen-deferred-default-shader-assets": "^1.0.0"
+  }
 }

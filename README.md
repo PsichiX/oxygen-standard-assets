@@ -12,7 +12,7 @@ new PackWebpackPlugin([
   { input: [
     'static/assets',
     // include standard assets into generated assets.pack
-    'node_modules/oxygen-standard-assets/assets'
+    '<oxygen-standard-assets>'
   ] }
 ])
 ```
