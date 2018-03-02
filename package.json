@@ -22,6 +22,6 @@
     ]
   },
   "dependencies": {
-    "oxygen-deferred-default-shader-assets": "^1.0.2"
+    "oxygen-deferred-default-shader-assets": "^1.0.3"
   }
 }
