@@ -1,6 +1,6 @@
 {
   "name": "oxygen-standard-assets",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Oxygen Game Engine Standard Assets",
   "main": "index.js",
   "author": "Patryk 'PsichiX' Budzynski <psichix@gmail.com> (http://psichix.io)",
@@ -18,10 +18,12 @@
   "homepage": "https://github.com/PsichiX/oxygen-standard-assets#readme",
   "oxygen": {
     "subassets": [
-      "<oxygen-deferred-default-shader-assets>/assets"
+      "<oxygen-deferred-default-shader-assets>/assets",
+      "<oxygen-deferred-simple-shader-assets>/assets"
     ]
   },
   "dependencies": {
-    "oxygen-deferred-default-shader-assets": "^1.0.4"
+    "oxygen-deferred-default-shader-assets": "^1.0.4",
+    "oxygen-deferred-simple-shader-assets": "^1.0.0"
   }
 }

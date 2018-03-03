@@ -1,5 +1,6 @@
 {
   "assets": [
-    "set://deferred-default-shaders.json"
+    "set://deferred-default-shaders.json",
+    "set://deferred-simple-shaders.json"
   ]
 }
