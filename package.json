@@ -19,11 +19,13 @@
   "oxygen": {
     "subassets": [
       "<oxygen-deferred-default-shader-assets>/assets",
-      "<oxygen-deferred-simple-shader-assets>/assets"
+      "<oxygen-deferred-simple-shader-assets>/assets",
+      "<oxygen-deferred-pbr-shader-assets>/assets"
     ]
   },
   "dependencies": {
     "oxygen-deferred-default-shader-assets": "^1.0.6",
+    "oxygen-deferred-pbr-shader-assets": "^1.0.0",
     "oxygen-deferred-simple-shader-assets": "^1.0.1"
   }
 }
