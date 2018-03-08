@@ -2,6 +2,7 @@
   "assets": [
     "set://deferred-default-shaders.json",
     "set://deferred-simple-shaders.json",
-    "set://deferred-pbr-shaders.json"
+    "set://deferred-pbr-shaders.json",
+    "set://postprocess-bloom-blur-shaders.json"
   ]
 }
