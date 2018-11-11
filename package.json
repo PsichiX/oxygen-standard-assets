@@ -1,6 +1,6 @@
 {
   "name": "oxygen-standard-assets",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Oxygen Game Engine Standard Assets",
   "main": "index.js",
   "author": "Patryk 'PsichiX' Budzynski <psichix@gmail.com> (http://psichix.io)",
@@ -28,6 +28,6 @@
     "oxygen-deferred-default-shader-assets": "^1.0.12",
     "oxygen-deferred-pbr-shader-assets": "^1.0.7",
     "oxygen-deferred-simple-shader-assets": "^1.0.7",
-    "oxygen-postprocess-bloom-blur-shader-assets": "^1.0.3"
+    "oxygen-postprocess-bloom-blur-shader-assets": "^1.0.5"
   }
 }
